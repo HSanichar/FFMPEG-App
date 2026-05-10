@@ -35,7 +35,7 @@ ipcMain.on("video:submit", (event, filePath) =>{
             return;
         }
         const duration = metadata.format.duration;
-        console.log("Duration: ", duration);
+        console.log("Hemani's Video Duration Was : ", duration, " seconds");
         event.reply('video:durationAnalyzed', duration);
     });
 });
