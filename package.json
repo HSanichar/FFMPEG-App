@@ -1,0 +1,23 @@
+{
+  "name": "quest-6",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000F\u0000F\u0000M\u0000P\u0000E\u0000G\u0000-\u0000A\u0000p\u0000p\u0000\r\u0000 \u0000",
+  "homepage": "https://github.com/HSanichar/FFMPEG-App#readme",
+  "bugs": {
+    "url": "https://github.com/HSanichar/FFMPEG-App/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HSanichar/FFMPEG-App.git"
+  },
+  "license": "ISC",
+  "author": "Hemani Sanichar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "electron": "^42.0.1"
+  }
+}
